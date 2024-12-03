@@ -1,0 +1,14 @@
+/home/vagrant/DotNet-C-Developer-Test-Internship-/MyConsoleApp/obj/Debug/net7.0/MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/vagrant/DotNet-C-Developer-Test-Internship-/MyConsoleApp/obj/Debug/net7.0/MyConsoleApp.AssemblyInfoInputs.cache
+/home/vagrant/DotNet-C-Developer-Test-Internship-/MyConsoleApp/obj/Debug/net7.0/MyConsoleApp.AssemblyInfo.cs
+/home/vagrant/DotNet-C-Developer-Test-Internship-/MyConsoleApp/obj/Debug/net7.0/MyConsoleApp.csproj.CoreCompileInputs.cache
+/home/vagrant/DotNet-C-Developer-Test-Internship-/MyConsoleApp/bin/Debug/net7.0/MyConsoleApp
+/home/vagrant/DotNet-C-Developer-Test-Internship-/MyConsoleApp/bin/Debug/net7.0/MyConsoleApp.deps.json
+/home/vagrant/DotNet-C-Developer-Test-Internship-/MyConsoleApp/bin/Debug/net7.0/MyConsoleApp.runtimeconfig.json
+/home/vagrant/DotNet-C-Developer-Test-Internship-/MyConsoleApp/bin/Debug/net7.0/MyConsoleApp.dll
+/home/vagrant/DotNet-C-Developer-Test-Internship-/MyConsoleApp/bin/Debug/net7.0/MyConsoleApp.pdb
+/home/vagrant/DotNet-C-Developer-Test-Internship-/MyConsoleApp/obj/Debug/net7.0/MyConsoleApp.dll
+/home/vagrant/DotNet-C-Developer-Test-Internship-/MyConsoleApp/obj/Debug/net7.0/refint/MyConsoleApp.dll
+/home/vagrant/DotNet-C-Developer-Test-Internship-/MyConsoleApp/obj/Debug/net7.0/MyConsoleApp.pdb
+/home/vagrant/DotNet-C-Developer-Test-Internship-/MyConsoleApp/obj/Debug/net7.0/MyConsoleApp.genruntimeconfig.cache
+/home/vagrant/DotNet-C-Developer-Test-Internship-/MyConsoleApp/obj/Debug/net7.0/ref/MyConsoleApp.dll
